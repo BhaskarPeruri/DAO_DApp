@@ -1,7 +1,7 @@
 ﻿# Decentralized Autonomous Organization(DAO)
 
 
-An organization on a blockchain represented by a set of rules encoded as a computer program that  is transparent controlled by organization members and not  influenced by a central government.
+An organization on a blockchain represented by a set of rules encoded as a computer program that  is transparent controlled by organization members and not  influenced by a central authority.
 
 # Functions of DAO DApp
 
